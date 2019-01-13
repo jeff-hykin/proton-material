@@ -8,10 +8,18 @@
  * =========================================== */
 
 :root {
-  --blue: #1E88E5;
-  --off-white: #EEEE;
-  --sidebar-min-width: 250px;
-  --top-bar-height: 56px;
+    --blue: #1E88E5;
+    --off-white: #EEEE;
+    --sidebar-min-width: 250px;
+    --top-bar-height: 56px;
+}
+
+/* move the send button to the right side of the message composer */
+#pm_composer .composer footer .pull-right {
+    justify-items: right;
+    flex-grow: 1;
+    display: flex;
+    justify-content: right;
 }
 
 
