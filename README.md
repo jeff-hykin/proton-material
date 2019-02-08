@@ -8,10 +8,11 @@ Some changes include
 - better animation on hover of top bar
 - changes to the search bar
 - better alignment formatting of new message composer elements (to: from: etc)
+- the left/right alignment of icons at the bottom of the new-message composer
 
 Still-Broken things:
 - layout icon selection
 - much of the mobile view
-- the left/right alignment of icons at the bottom of the new-message composer
+
 
 At this point in time the code is not organized, but in the future this code might be maintained/organized.
