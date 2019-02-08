@@ -2,9 +2,9 @@
  * ProtonMail Material - Inbox
  * =========================================== */
 /* =========================================== *
+ * Modified by: Jeff Hykin
  * Original Author: Denis Zhekov
  * Website: http://snoobyx.com
- * Modified by: Jeff Hykin
  * =========================================== */
 
 :root {
@@ -19,7 +19,7 @@
     justify-items: right;
     flex-grow: 1;
     display: flex;
-    justify-content: right;
+    justify-content: flex-end;
 }
 
 
